@@ -1,2 +1,0 @@
-# StockSmart
-Inventory Management system
